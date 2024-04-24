@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9331711502f8e747b0ea7ae4d74de60, type: 3}
+  m_Name: Dialog 4
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 678c92572cc724845a460c87117f5353, type: 3}
+  LeftSpeaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+  Dialog:
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Stop there !!
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Outsider cant go any further.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: "I'm an emissary from the Mt. Black.\r"
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: "How can we trust you?\r"
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: What is this fuss about?
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: "Pardon me your highness, this young lady here claims to be an envoy from
+      the Mt. Black camp.\r"
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: Is that true?
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: That's right Your Highness.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: You doesn't looks lika a soldier to me, so how can we trust you?
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: (Gives the recruitment scroll)
+  - Speaker: {fileID: 0}
+    Text: Hmm, I don't know what is this, and it's definitely not a scroll made in
+      Tenja.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: I'm sorry but you must go now.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: Troops at Mt. Black is battered.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: They need reinforcements within 5 days.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: The enemy number keep growing while the troops getting lesser.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: We know that better than anyone else. but the king is on his way back from
+      the Black forest, come back after the king returns.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: Fight me!
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Your highness!?
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: I am Nalin, the Princess of Tenja.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: the second person who has absolute command after the king.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: 'I know we are at our worst here as well, but they still our people.
+
+      We
+      can''t just stay here while they being slaughtered aren''t we?'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Pardon me your highness, but we don't know if she really is a human or
+      a monster in disguise.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: Prepare the arena, we can only know after the fight.

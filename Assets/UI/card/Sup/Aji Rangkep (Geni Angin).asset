@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9315ef1f73418bc4da175e89b0c904b9, type: 3}
+  m_Name: Aji Rangkep (Geni Angin)
+  m_EditorClassIdentifier: 
+  type: 2
+  elemType: 0
+  sprite: {fileID: 8941467883561792209, guid: 327eea049c57d0e4bb83ac50832254bb, type: 3}
+  penjelasan: An artifact in a shape of a sacred bottle used by the ancient Gods.
+    This artifact can fuse the power of 2 elemental stone.
+  buffData:
+    stun: 0
+    cure: 0
+    speedAmount: 0
+    accuracyAmount: 0
+    evasionAmount: 0
+    damagePerSecondAmount: 0
+    buffDuration: 1
+  animationName: atk
+  sfxName: sfx1
+  vfxImpactName: slash1
+  videoClipName: 
+  healAmount: 0

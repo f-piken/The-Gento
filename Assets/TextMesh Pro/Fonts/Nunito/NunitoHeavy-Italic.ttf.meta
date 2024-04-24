@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d69a1b98c967de74493e48e72a3c0518
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Nunito Heavy
+  fontNames:
+  - Nunito Heavy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 767748255f8ba8f4da2a5f0f19098f1f, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

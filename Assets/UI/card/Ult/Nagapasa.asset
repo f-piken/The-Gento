@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6d411487b09cff488262465fab0ff42, type: 3}
+  m_Name: Nagapasa
+  m_EditorClassIdentifier: 
+  type: 1
+  elemType: 0
+  sprite: {fileID: -5715993420535005892, guid: 327eea049c57d0e4bb83ac50832254bb, type: 3}
+  penjelasan: 'This arrow will transform into dragons that will hunt down the enemies
+    if it shoots.
+
+
+    AoE
+
+    Dmg 180 + 5% Enemy Health'
+  buffData:
+    stun: 0
+    cure: 0
+    speedAmount: 0
+    accuracyAmount: 0
+    evasionAmount: 0
+    damagePerSecondAmount: 0
+    buffDuration: 1
+  animationName: atk
+  sfxName: sfx1
+  vfxImpactName: slash1
+  videoClipName: testVideo10sec
+  totalDamage: 1800
+  totalAtk: 5
+  lastDamageIncrease: 1
+  HitArea: 1

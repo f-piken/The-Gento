@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9dcb7f696a50b4a847c6a6c377084d, type: 3}
+  m_Name: Gantari
+  m_EditorClassIdentifier: 
+  isBoss: 1
+  maxHealth: 800
+  elemType: 1
+  speed: 70
+  accuracy: 100
+  evasion: 0
+  atk:
+  - card: {fileID: 11400000, guid: b8665ce4161eb91459cab3d2f81ae1e7, type: 2}
+    coolDown: 0
+  - card: {fileID: 11400000, guid: 5d9715b209f199a40aeaf52cf2fc8050, type: 2}
+    coolDown: 3
+  - card: {fileID: 11400000, guid: 493a3c45fcd7d8d409b121d0d6d56d4c, type: 2}
+    coolDown: 5
+  icon: {fileID: 21300000, guid: 077c560e8bebf6342a79c2bd9cf5d99b, type: 3}
+  anim: {fileID: 0}
+  Tint: {r: 1, g: 1, b: 1, a: 1}

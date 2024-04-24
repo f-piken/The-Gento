@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9dcb7f696a50b4a847c6a6c377084d, type: 3}
+  m_Name: Purple
+  m_EditorClassIdentifier: 
+  isBoss: 0
+  maxHealth: 150
+  elemType: 2
+  speed: 45
+  accuracy: 100
+  evasion: 0
+  atk:
+  - card: {fileID: 11400000, guid: a2d8a6914454a1e4485f6147f566430c, type: 2}
+    coolDown: 0
+  - card: {fileID: 11400000, guid: 2414533651ba7034999cba13ee67c5fe, type: 2}
+    coolDown: 2
+  icon: {fileID: -3936697564895680813, guid: 82f5d269d6687c54387fed3f657ab320, type: 3}
+  anim: {fileID: 9100000, guid: 2e45b3932089a9d48b77ae3041d30d51, type: 2}
+  Tint: {r: 0, g: 0.45819464, b: 0.764151, a: 1}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: df0e18806dc53744ba0e30174fabffbb, type: 3}
+  m_Name: 2-3
+  m_EditorClassIdentifier: 
+  dialog: {fileID: 0}
+  enemies:
+  - {fileID: 11400000, guid: c9859755209e1d14d846b1aaba9bf8d0, type: 2}
+  - {fileID: 11400000, guid: 078d1d4fa8608ce47a1fca616f482ce4, type: 2}
+  - {fileID: 11400000, guid: b597d889f7d892d4cbfbb8582e2734b3, type: 2}
+  - {fileID: 11400000, guid: 046c6549e87faaf4684297fea2141ab0, type: 2}
+  - {fileID: 11400000, guid: 83eda2bead8f8e04faba351988523e8e, type: 2}
+  - {fileID: 11400000, guid: c438407b6bc3b144a9e486b5fc6dd66f, type: 2}
+  - {fileID: 11400000, guid: 97a65c274c02ce342b6c07b4660b3472, type: 2}
+  - {fileID: 11400000, guid: 09df8d3ec91635d46b5e107e041b4b0a, type: 2}
+  - {fileID: 11400000, guid: 90b60ee9aafaf1c409a721fd0592813d, type: 2}
+  Rewards:
+  - Amount: 9
+    CardReward: {fileID: 0}

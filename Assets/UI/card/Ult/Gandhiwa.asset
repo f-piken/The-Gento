@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6d411487b09cff488262465fab0ff42, type: 3}
+  m_Name: Gandhiwa
+  m_EditorClassIdentifier: 
+  type: 1
+  elemType: 0
+  sprite: {fileID: 6919881308099226656, guid: 327eea049c57d0e4bb83ac50832254bb, type: 3}
+  penjelasan: "One of the legendary bow used by the ancient god, when arrows are
+    fired from this bow, the number of arrows will be multiplied continuously until
+    the arrow hits the ground. \n\nAoE\nDmg 120 + 5% Enemy Health."
+  buffData:
+    stun: 0
+    cure: 0
+    speedAmount: 0
+    accuracyAmount: 0
+    evasionAmount: 0
+    damagePerSecondAmount: 0
+    buffDuration: 1
+  animationName: atk
+  sfxName: sfx1
+  vfxImpactName: slash1
+  videoClipName: testVideo10sec
+  totalDamage: 1200
+  totalAtk: 3
+  lastDamageIncrease: 0
+  HitArea: 2

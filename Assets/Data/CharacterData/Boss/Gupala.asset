@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9dcb7f696a50b4a847c6a6c377084d, type: 3}
+  m_Name: Gupala
+  m_EditorClassIdentifier: 
+  isBoss: 1
+  maxHealth: 1500
+  elemType: 3
+  speed: 50
+  accuracy: 100
+  evasion: 0
+  atk:
+  - card: {fileID: 11400000, guid: 2408c23305f05a04cafd31dc031344a7, type: 2}
+    coolDown: 0
+  - card: {fileID: 11400000, guid: 5a998d2439321b74988eb85bdec8c1cd, type: 2}
+    coolDown: 3
+  - card: {fileID: 11400000, guid: 919ee64ee19bcb044a64d4f9368b4451, type: 2}
+    coolDown: 8
+  icon: {fileID: 0}
+  anim: {fileID: 0}
+  Tint: {r: 1, g: 1, b: 1, a: 1}

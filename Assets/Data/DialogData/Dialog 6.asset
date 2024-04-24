@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9331711502f8e747b0ea7ae4d74de60, type: 3}
+  m_Name: Dialog 6
+  m_EditorClassIdentifier: 
+  Background: {fileID: 0}
+  LeftSpeaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+  Dialog:
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: "Reinforcements, finally.\r"
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'Thank you, thank you so much. I don''t know how to repay your kindness.
+
+'
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: No need to thank me, i'm just glad i can help.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: I can only see very few troops left here, where's your captain?
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Shit got really serious here all of sudden.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: He is the one told us to run to the higher ground but..
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: You know the rest..
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Enough of this emotional moment, we need to keep on guard.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: "I can't repay your kindness with anything, but I can give you some information
+      that might be useful on your journey to Mitja.\r"
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: It might be very difficult to get to the Mitja Kingdom because King Gantari
+      placed a very strong guard figure deep inside the Pine Forest, the only entrance
+      to the Mitja Castle
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: 'Thanks for the information.
+
+'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Ah one more thing..
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: I didn't mean to scare you but..
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: I heard the guard in the Pine Forest isn't a human.

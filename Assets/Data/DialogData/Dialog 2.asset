@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9331711502f8e747b0ea7ae4d74de60, type: 3}
+  m_Name: Dialog 2
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 678c92572cc724845a460c87117f5353, type: 3}
+  LeftSpeaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+  Dialog:
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'Hoi, young lady!
+
+      You.. yes you, come here for a while.'
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: 1738c35eb83534c4d9aec4e5d68db000, type: 2}
+    Text: You are not live in this village don't you. Every man and women come and
+      leaving this village should report to the guards at once.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: My name is Salwa sir, a hunter.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: A hunter? Ah, so that's what happen. Indeed you need a good treats.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'I mean, how can a hunter be so good at fighting monsters?
+
+'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: One of the villager here told a story about a young hunter saving their
+      life from a bunch of buto and lelembut, it's must be you then if im not mistaken.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: I just glad i can help sir, no reward is necessary.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Well, im not saying i will give you a reward, but you do deserve a reward
+      at this point.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: But not from me.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'King Gantari is currently looking for some young man and women with a
+      good fighting skills and experience in fighting.
+
+'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'And maybe he can give you the reward you deserve.
+
+'
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: Is it has something to do with the great explosion a few days ago?
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Unfortunately yes.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'The thing is, that explosion near Mitja castle is believed to make many
+      buto and lelembut out of control.
+
+'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'King Gantari himself went there with a half of his men to check the situation.
+      But it was a lot worse than he expected to be. '
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: They all were slain by a giant buto, and even the king himself returned
+      with serious wound.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: "This sounds so serious, you have any further information you can give
+      me? And where is this explosion come from?\r"
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: Hmm, I don't really know about it. I haven't heard a single news since
+      moved to this village.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: "Here, you better take this scroll and go to Mitja Castle.\r"
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: What is this?
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: It's a recruitment scroll, i know it so sudden but we need every single
+      fighter we can find.
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: You better go now, buto and lelembut can be a serious thing in the dark.

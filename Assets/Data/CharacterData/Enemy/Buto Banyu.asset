@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e9dcb7f696a50b4a847c6a6c377084d, type: 3}
+  m_Name: Buto Banyu
+  m_EditorClassIdentifier: 
+  isBoss: 0
+  maxHealth: 1000
+  elemType: 2
+  speed: 50
+  accuracy: 100
+  evasion: 0
+  atk:
+  - card: {fileID: 11400000, guid: a2d8a6914454a1e4485f6147f566430c, type: 2}
+    coolDown: 0
+  - card: {fileID: 11400000, guid: 2414533651ba7034999cba13ee67c5fe, type: 2}
+    coolDown: 0
+  icon: {fileID: 0}
+  anim: {fileID: 9100000, guid: 18714db4822ee4d4ab58155bb3f986f9, type: 2}
+  Tint: {r: 1, g: 1, b: 1, a: 1}

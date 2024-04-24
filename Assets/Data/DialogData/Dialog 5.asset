@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9331711502f8e747b0ea7ae4d74de60, type: 3}
+  m_Name: Dialog 5
+  m_EditorClassIdentifier: 
+  Background: {fileID: 21300000, guid: 678c92572cc724845a460c87117f5353, type: 3}
+  LeftSpeaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+  Dialog:
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: "Tchh, what a shame.\r."
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: Alright, you seems too good at using your sense to be one of the lelembut
+      disguise.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: You can move with them to Mt. Black once the preparation done.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: Thank you your highness.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: How was the status at Mt. Black?
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: "They tried hard to keep all the Buto and Lelembut from going further into
+      the village.\r"
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: I know something is not right in here.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: This aura.. The buto and lelembut which are getting so out of control..
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: Even King Gantari and my father intervened.
+  - Speaker: {fileID: 11400000, guid: 391480205be32524da3844be20bcd9e4, type: 2}
+    Text: This is just not right.

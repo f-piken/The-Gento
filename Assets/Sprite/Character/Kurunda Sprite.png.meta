@@ -1,0 +1,447 @@
+fileFormatVersion: 2
+guid: 2a8b0bb33dbc13c44beb446a52d3592d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7021236697895817936
+    second: Kurunda Sprite_0
+  - first:
+      213: 3474044397420303822
+    second: Kurunda Sprite_1
+  - first:
+      213: 1856586835276030778
+    second: Kurunda Sprite_2
+  - first:
+      213: -4599133524053462797
+    second: Kurunda Sprite_3
+  - first:
+      213: -5534711190787484394
+    second: Kurunda Sprite_4
+  - first:
+      213: -366857790150176821
+    second: Kurunda Sprite_5
+  - first:
+      213: 6867191350813653981
+    second: Kurunda Sprite_6
+  - first:
+      213: -3679735004385520917
+    second: Kurunda Sprite_7
+  - first:
+      213: 1054095554541421480
+    second: Kurunda Sprite_8
+  - first:
+      213: -8839722322359619222
+    second: Kurunda Sprite_9
+  - first:
+      213: 6006529310437547936
+    second: Kurunda Sprite_10
+  - first:
+      213: 1193179977383831731
+    second: Kurunda Sprite_11
+  - first:
+      213: -7202550308395471263
+    second: Kurunda Sprite_12
+  - first:
+      213: -7418381190385625122
+    second: Kurunda Sprite_13
+  - first:
+      213: 4025615803244828244
+    second: Kurunda Sprite_14
+  - first:
+      213: -2840092968726945000
+    second: Kurunda Sprite_15
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Kurunda Sprite_0
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 3022
+        width: 2960
+        height: 3029
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03dabf16c6e8f8e90800000000000000
+      internalID: -7021236697895817936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_1
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 3041
+        width: 2926
+        height: 3010
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec55c2229f8463030800000000000000
+      internalID: 3474044397420303822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_2
+      rect:
+        serializedVersion: 2
+        x: 9848
+        y: 3086
+        width: 2920
+        height: 2965
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a336b4bd3ebe3c910800000000000000
+      internalID: 1856586835276030778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_3
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 980
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0f3385d689c20c0800000000000000
+      internalID: -4599133524053462797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_6
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 3791
+        height: 2628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddbf1ed462a2d4f50800000000000000
+      internalID: 6867191350813653981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_7
+      rect:
+        serializedVersion: 2
+        x: 4923
+        y: 980
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be2d7047284feecc0800000000000000
+      internalID: -3679735004385520917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_10
+      rect:
+        serializedVersion: 2
+        x: 4800
+        y: 0
+        width: 3813
+        height: 2628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af1a99759a7b5350800000000000000
+      internalID: 6006529310437547936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_11
+      rect:
+        serializedVersion: 2
+        x: 10161
+        y: 0
+        width: 2619
+        height: 2696
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b862112ed60f8010800000000000000
+      internalID: 1193179977383831731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_12
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16e253fb7a66b0c90800000000000000
+      internalID: -7202550308395471263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_13
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 443
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed710a29c9d9c0990800000000000000
+      internalID: -7418381190385625122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_14
+      rect:
+        serializedVersion: 2
+        x: 5155
+        y: 449
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4565b929e3cddd730800000000000000
+      internalID: 4025615803244828244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kurunda Sprite_15
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 443
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81322fd0e76f598d0800000000000000
+      internalID: -2840092968726945000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Kurunda Sprite_0: -7021236697895817936
+      Kurunda Sprite_1: 3474044397420303822
+      Kurunda Sprite_10: 6006529310437547936
+      Kurunda Sprite_11: 1193179977383831731
+      Kurunda Sprite_12: -7202550308395471263
+      Kurunda Sprite_13: -7418381190385625122
+      Kurunda Sprite_14: 4025615803244828244
+      Kurunda Sprite_15: -2840092968726945000
+      Kurunda Sprite_2: 1856586835276030778
+      Kurunda Sprite_3: -4599133524053462797
+      Kurunda Sprite_6: 6867191350813653981
+      Kurunda Sprite_7: -3679735004385520917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

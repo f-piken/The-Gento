@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9331711502f8e747b0ea7ae4d74de60, type: 3}
+  m_Name: Dialog 8
+  m_EditorClassIdentifier: 
+  Background: {fileID: 0}
+  LeftSpeaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+  Dialog:
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: You.. wait.. how can you..
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: I came here to meet the King.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: (give the recruitment scroll)
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: 'But....
+
+      ok, you stay here.'
+  - Speaker: {fileID: 11400000, guid: 1556207519bda5d4f84b7efb124f9cf6, type: 2}
+    Text: (leaving Salwa) ...
+  - Speaker: {fileID: 0}
+    Text: (A few minutes later)
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Oh, so you are the one they told me about.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: the one who defeated gupala and broke through hundreds of buto and lelembut
+      to come here.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: I must say i'm pretty impressed.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: that is no need for that your Majesty.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Tell me, what is it all about.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: 'I came here with a recruitment scroll that I got from a guard in Braja
+      village.
+
+'
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Hmm, I heard about that as well.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: "A young hunter girl who volunteered to join the army.\r"
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: My apologies Your Majesty. i'm not actually came to join the army, i just
+      want to know what is this aura and where does it came from.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: 'Did you know that you are very interesting? You came all the way here
+      without a proper reason. '
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Honestly, with that scroll in your hand is enough for you to join the army.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: But for some reason I need to test you.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: 'Actually we do have some guards defending Pine Forest so the outsider
+      who want to join the army won''t be killed by Gupala. '
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: But you, the fact that you bring the scroll all the way here and defeat
+      Gupala is something i need to make sure.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Maybe they are knocked down by the buto and lelembut.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Or maybe you're the cause of it.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: Pardon me your majesty, but i'm confused.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Don't take it personal, i just need to make sure that you're not a friend
+      with that monster in the Black Forest.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: Monster?
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Right, the monster who start this chaos all around the land. the one who
+      strong enough to knock me out.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: And the one who responsible for the dead of King Tenja.
+  - Speaker: {fileID: 11400000, guid: 97f9b25184b1c5e4285d0e32e21f23af, type: 2}
+    Text: ...
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Now, enough with the talk.
+  - Speaker: {fileID: 11400000, guid: af726272db336b54480dfac9b15c8702, type: 2}
+    Text: Let's begin the test.
